@@ -1,5 +1,6 @@
 # Developing Machine Learning Classification Models 
-
+# Publish Paper
+- **For more information, please check this research paper: https://www.overleaf.com/read/ntrmqxhqmbrc#cc81cc
 # Process
 1. **Collecting Data**  
    - Gather image data from various sources (e.g., medical imaging datasets)
@@ -69,5 +70,3 @@
 
 pip install -r requirements.txt
 
-# Publish Paper
-- **For more information, please check this research paper: https://www.overleaf.com/read/ntrmqxhqmbrc#cc81cc
