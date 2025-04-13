@@ -1,5 +1,4 @@
 # Developing Machine Learning Classification Models 
-Research project
 
 # Process
 1. **Collecting Data**  
@@ -70,5 +69,5 @@ Research project
 
 pip install -r requirements.txt
 
-# Structure
-folders, subfolders
+# Publish Paper
+- **For more information, please check this research paper: https://www.overleaf.com/read/ntrmqxhqmbrc#cc81cc
